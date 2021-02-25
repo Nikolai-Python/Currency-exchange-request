@@ -1,7 +1,3 @@
-# ЗАДАНИЕ 3b: написать программу, которая на основании запроса 
-# данных с сайта http://www.cbr.ru/scripts/XML_daily.asp 
-# определит курс гонконгского доллара к российскому рублю
-
 import requests
 from lxml import etree
     
